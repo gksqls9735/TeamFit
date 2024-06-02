@@ -47,7 +47,7 @@ teamfit/
 ### 설치
 1. repository 복사:
     ```sh
-    git clone https://github.com/yourusername/teamfit.git
+    git clone https://github.com/gksqls9735/teamfit.git
     ```
 2. project directory로 이동:
     ```sh
@@ -84,21 +84,6 @@ teamfit/
 ### 강사 매칭
 ![instructor_matching](https://github.com/gksqls9735/TeamFit/assets/166088728/2703ee31-a082-4a83-a041-e1b73a45cff2)
 
-## Contributing
-1. Fork the repository.
-2. Create your feature branch:
-    ```sh
-    git checkout -b feature/YourFeature
-    ```
-3. Commit your changes:
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```sh
-    git push origin feature/YourFeature
-    ```
-5. Open a pull request.
 
 ## 라이센스
 이 프로젝트는 MIT 라이센스 하에 라이센스가 부여됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
