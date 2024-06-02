@@ -35,7 +35,7 @@ teamfit/
     ├── lecture_registration1.png
     ├── lecture_registration2.png
     └── Membership_registration.png
-```\
+\```
 
 ## Getting Started
 
