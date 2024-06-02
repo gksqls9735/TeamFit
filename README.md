@@ -72,8 +72,8 @@ Here are some examples of the application running in the console:
 ![Membership registration and login](images/Membership_registration.png)
 
 ### Lecture Registration
-![Lecture Registration](images/lecture_registration.png)
-
+![Lecture Registration](images/lecture_registration1.png)
+![Lecture Registration](images/lecture_registration2.png)
 ### Instructor Matching
 ![Instructor Matching](images/instructor_matching.png)
 
