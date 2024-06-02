@@ -76,14 +76,14 @@ teamfit/
 Here are some examples of the application running in the console:
 
 ### Membership registration and login
-![Membership registration and login](https://github.com/gksqls9735/TeamFit/raw/master/images/Membership_registration.png)
+![Membership_registration](https://github.com/gksqls9735/TeamFit/assets/166088728/0ca402d2-f0ea-4727-9ef6-199a55dd10f9)
 
 ### Lecture Registration
-![Lecture Registration](https://github.com/gksqls9735/TeamFit/raw/master/images/lecture_registration1.png)
-![Lecture Registration](https://github.com/gksqls9735/TeamFit/raw/master/images/lecture_registration2.png)
+![lecture_registration1](https://github.com/gksqls9735/TeamFit/assets/166088728/83a5c15d-949a-4fef-a08d-d72cc174163f)
+![lecture_registration2](https://github.com/gksqls9735/TeamFit/assets/166088728/b5a729ff-de5a-4197-855d-bf59eb54f864)
 
 ### Instructor Matching
-![Instructor Matching](https://github.com/gksqls9735/TeamFit/raw/master/images/instructor_matching.png)
+![instructor_matching](https://github.com/gksqls9735/TeamFit/assets/166088728/2703ee31-a082-4a83-a041-e1b73a45cff2)
 
 ## Contributing
 1. Fork the repository.
