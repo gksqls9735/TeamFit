@@ -9,7 +9,7 @@ TeamFit is a Java-based application designed to help users manage their fitness 
 - Exercise cart functionality
 
 ## Project Structure
-```plaintext
+\```plaintext
 teamfit/
 ├── .classpath
 ├── .project
@@ -35,6 +35,7 @@ teamfit/
     ├── lecture_registration1.png
     ├── lecture_registration2.png
     └── Membership_registration.png
+\```
 
 ## Getting Started
 
