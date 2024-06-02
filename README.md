@@ -21,7 +21,7 @@ TeamFit는 사용자가 피트니스 루틴을 관리할 수 있도록 도와주
 - 강의 검색
 - 강의 신청 기능
 
-## 프로젝트 구조
+## 프로젝트구조
 ```
 teamfit_project_structure/
 ├── .classpath
