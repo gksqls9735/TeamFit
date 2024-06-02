@@ -37,6 +37,7 @@ teamfit/
 └── Membership_registration.png
 
 
+
 ## Getting Started
 
 ### Prerequisites
@@ -75,14 +76,14 @@ teamfit/
 Here are some examples of the application running in the console:
 
 ### Membership registration and login
-![Membership registration and login](images/Membership_registration.png)
+![Membership registration and login](https://github.com/gksqls9735/TeamFit/raw/master/images/Membership_registration.png)
 
 ### Lecture Registration
-![Lecture Registration](images/lecture_registration1.png)
-![Lecture Registration](images/lecture_registration2.png)
+![Lecture Registration](https://github.com/gksqls9735/TeamFit/raw/master/images/lecture_registration1.png)
+![Lecture Registration](https://github.com/gksqls9735/TeamFit/raw/master/images/lecture_registration2.png)
 
 ### Instructor Matching
-![Instructor Matching](images/instructor_matching.png)
+![Instructor Matching](https://github.com/gksqls9735/TeamFit/raw/master/images/instructor_matching.png)
 
 ## Contributing
 1. Fork the repository.
