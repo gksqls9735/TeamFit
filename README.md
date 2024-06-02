@@ -9,7 +9,6 @@ TeamFit is a Java-based application designed to help users manage their fitness 
 - Exercise cart functionality
 
 ## Project Structure
-
 teamfit/
 ├── .classpath
 ├── .project
@@ -35,8 +34,6 @@ teamfit/
 ├── lecture_registration1.png
 ├── lecture_registration2.png
 └── Membership_registration.png
-
-
 
 ## Getting Started
 
@@ -105,6 +102,6 @@ Here are some examples of the application running in the console:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Email - [your-email@example.com](mailto:gksqls9735@gmail.com)
 
-Project Link: [https://github.com/yourusername/teamfit](https://github.com/yourusername/teamfit)
+Project Link: [https://github.com/gksqls9735/teamfit](https://github.com/gksqls9735/teamfit)
