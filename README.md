@@ -6,6 +6,16 @@ TeamFit는 사용자가 피트니스 루틴을 관리할 수 있도록 도와주
 사용자는 운동을 검색하고 선택한 운동을 장바구니에 담아 관리할 수 있습니다.
 사용자는 운동 강사와 1대1 매칭을 할 수 있습니다.
 
+## 목차
+
+- [기능](#기능)
+- [프로젝트 구조](#프로젝트 구조)
+- [시작](#시작)
+- [파일](#파일)
+- [스크린샷](#스크린샷)
+- [라이선스](#라이선스)
+- [연락처](#연락처)
+  
 ## 기능
 - 사용자 관리
 - 강의 검색
@@ -13,7 +23,7 @@ TeamFit는 사용자가 피트니스 루틴을 관리할 수 있도록 도와주
 
 ## 프로젝트 구조
 ```
-teamfit/
+teamfit_project_structure/
 ├── .classpath
 ├── .project
 ├── cart.txt
@@ -77,7 +87,7 @@ teamfit/
 ### 회원 등록 및 로그인
 ![Membership_registration](https://github.com/gksqls9735/TeamFit/assets/166088728/0ca402d2-f0ea-4727-9ef6-199a55dd10f9)
 
-### 강의 등록
+### 강의 신청
 ![lecture_registration1](https://github.com/gksqls9735/TeamFit/assets/166088728/83a5c15d-949a-4fef-a08d-d72cc174163f)
 ![lecture_registration2](https://github.com/gksqls9735/TeamFit/assets/166088728/b5a729ff-de5a-4197-855d-bf59eb54f864)
 
