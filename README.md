@@ -57,7 +57,7 @@ teamfit_project_structure/
 ### 설치
 1. repository 복사:
     ```sh
-    git clone https://github.com/gksqls9735/teamfit.git
+  https://github.com/gksqls9735/teamfit.git
     ```
 2. project directory로 이동:
     ```sh
